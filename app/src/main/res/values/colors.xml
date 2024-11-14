@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="button_background">#ADD8E6</color>
+    <color name="save_button_color">#4CAF50</color> <!-- Green -->
+    <color name="share_button_color">#2196F3</color> <!-- Blue -->
+    <color name="light_blue_background">#E3F2FD</color> <!-- Light Blue -->
+    <color name="off_white_background">#F8F8F8</color> <!-- Off White -->
+    <color name="due_date_red">#FF0000</color> <!-- Red -->
+    <color name="black">#000000</color> <!-- Black -->
+</resources>
